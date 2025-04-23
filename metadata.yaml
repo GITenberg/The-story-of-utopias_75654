@@ -1,0 +1,63 @@
+_repo: The-story-of-utopias_75654
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Van Loon, Hendrik Willem
+    aliases:
+    - Loon, Hendrik Willem Van
+    - Loon, Hendrik Van
+    birthdate: 1882
+    deathdate: 1944
+    gutenberg_agent_id: '392'
+    url: http://www.gutenberg.org/2009/agents/392
+    wikipedia: https://en.wikipedia.org/wiki/Hendrik_Willem_van_Loon
+creator:
+  author:
+    agent_name: Mumford, Lewis
+    birthdate: 1895
+    deathdate: 1990
+    gutenberg_agent_id: '52994'
+    url: http://www.gutenberg.org/2009/agents/52994
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Mumford
+description: 'Reading ease score: 48.4 (College-level). Difficult to read.'
+gutenberg_bookshelf:
+- 'Browsing: Culture/Civilization/Society'
+- 'Browsing: Philosophy & Ethics'
+gutenberg_issued: '2025-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75654'
+language: en
+pgterms:marc904: https://archive.org/details/storyofutopiasid00mumf/
+pgterms:marc905: 20240218155002mumford
+pgterms:marc906: '1923'
+pgterms:marc907: gb
+production_note: Hannah Wilson and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aLondon :$bGeorge G. Harrap & Co. Ltd., $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utopias'
+- !lcc 'HX'
+- GITenberg
+summary: '"The Story of Utopias" by Lewis Mumford is a critical examination of utopian
+  thought, showcasing its evolution and significance throughout history, likely written
+  in the early 20th century. The text engages with various ideal commonwealths and
+  expresses how these constructs influence humanity''s vision of a better life. Rather
+  than focusing solely on fictional narratives, it intertwines philosophical discourse
+  with historical accounts, thereby demonstrating the relevance of utopia in shaping
+  societal values and structures.  At the start of Mumford''s exploration, he introduces
+  the concept of utopia as a necessary counterpart to the realities of human existence,
+  highlighting the dual worlds people inhabit: the practical and the ideal. He elaborates
+  on how the desire for a utopian society inspires individuals to seek change and
+  improvement in their environment. Mumford also reflects on the importance of ideas,
+  presenting them as pivotal to human progress and illustrating how dreams of utopia
+  often stem from societal crises. In this initial section, he establishes a framework
+  for understanding utopian ideals as both a refuge from the harshness of reality
+  and a motivation for societal reconstruction. (This is an automatically generated
+  summary.)'
+title: The story of utopias
+url: http://www.gutenberg.org/ebooks/75654
