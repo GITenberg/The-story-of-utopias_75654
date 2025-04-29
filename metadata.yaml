@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '392'
     url: http://www.gutenberg.org/2009/agents/392
     wikipedia: https://en.wikipedia.org/wiki/Hendrik_Willem_van_Loon
+covers:
+- cover_type: archival
+  image_path: 75654-h/images/cover.jpg
 creator:
   author:
     agent_name: Mumford, Lewis
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52994
     wikipedia: https://en.wikipedia.org/wiki/Lewis_Mumford
 description: 'Reading ease score: 48.4 (College-level). Difficult to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75654#The-story-of-utopias
 gutenberg_bookshelf:
 - 'Browsing: Culture/Civilization/Society'
 - 'Browsing: Philosophy & Ethics'
